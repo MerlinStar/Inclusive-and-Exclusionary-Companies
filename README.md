@@ -12,7 +12,7 @@ Nowhere is perfect, but some places are much better than others. I have always w
 
 Also, anyone is free to share this, all I ask is that you either link back to this repository or state that I (Merlin Star) created this.
 
-Also, please feel free to suggest companies to add as long as you have proof for this. I want this to be collaborative, not just a me thing.
+Also, please feel free to suggest companies to add as long as you have proof for this. I want this to be collaborative, not just a me thing. By default, I will cite you by your GitHub name, but if you desire to be cited  a different way, I will be more than happy to do so!
 
 If you would like a brief description about the various isms I listed above, go to https://engineering.osu.edu/quick-guide-isms-and-phobias .
 
